@@ -1,5 +1,5 @@
 ---
-title: 22-Creating the perfect AI
+title: 22-What is Random?
 layout: post
 author: joseph.beddoe
 permalink: /22-creating-the-perfect-ai/
