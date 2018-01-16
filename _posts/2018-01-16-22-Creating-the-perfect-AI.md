@@ -28,7 +28,7 @@ We wanted to experiment so we played an online game of backgammon where it seems
 
 As well as this we looked at our teachers code on python where he created a game where the computer generates a random number and you have to guess it which was fun, when we did it we got it in 5 tries. 
 
-Here below I will put my python work which I have been working on for the past few weeks:                                          </td>
+Here below I will put my python work which I have been working on for the past few weeks:  <iframe height="400px" width="100%" src="https://repl.it/@josephbeddoe/ExaltedSeriousBat?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe></td>
   </tr>
 </table>
 
