@@ -78,11 +78,5 @@ What would patronus be?
 
 4. Crocodile 
 
-7-12 g
 
-13-17 h
-
-18-22 r
-
-22+ s
 
