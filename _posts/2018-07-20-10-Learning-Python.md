@@ -1,5 +1,5 @@
 ---
-title: 10 -Learning Python
+title: 10- Learning Python
 layout: post
 author: joseph.beddoe
 permalink: /10-learning-python/
